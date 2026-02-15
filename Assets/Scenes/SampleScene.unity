@@ -436,7 +436,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 2107448816964160439, guid: 469a52f7202136e449e82af21849ee20, type: 3}
       propertyPath: m_Name
-      value: VFX_TempTrail_PFX
+      value: VFX_WindTrail_PFX
       objectReference: {fileID: 0}
     - target: {fileID: 3544863242120341332, guid: 469a52f7202136e449e82af21849ee20, type: 3}
       propertyPath: m_Time
